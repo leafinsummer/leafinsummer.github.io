@@ -2,8 +2,229 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d7fdd95-b093-4a4a-9b25-d85009cec3e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/table.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/copy_file.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample1/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample10/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample11/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample2/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample3/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample4/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample5/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample6/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample7/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample8/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample9/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/table.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/util.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -25,41 +246,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="copy_file.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/copy_file.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="util.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/util.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="table.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/table.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            <state relative-caret-position="1560">
+              <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,9 +273,9 @@
       <list>
         <option value="$PROJECT_DIR$/index1.html" />
         <option value="$PROJECT_DIR$/table.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/copy_file.sh" />
         <option value="$PROJECT_DIR$/util.js" />
+        <option value="$PROJECT_DIR$/copy_file.sh" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -422,26 +613,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/util.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/copy_file.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+        <state relative-caret-position="105">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="1560">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding />
         </state>
       </provider>

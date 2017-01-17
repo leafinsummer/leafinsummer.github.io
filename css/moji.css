@@ -1,0 +1,181 @@
+/*! moji.css */
+@font-face {
+    font-family: jianyuan;
+    src: url(../fonts/classicjianyuan.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: xiyuan;
+    src: url(../fonts/xiyuan.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: xianxi;
+    src: url(../fonts/xianxi.otf) format('opentype');
+}
+
+.font-jianyuan {
+	font-family: jianyuan;
+}
+
+.font-xiyuan {
+	font-family: xiyuan;
+}
+
+.font-xianxi {
+	font-family: xianxi;
+}
+
+.navigation {
+	margin:20px;
+}
+
+.navigation .logo-img {
+  display: inline-block;
+  max-width:150px;
+  max-height:95px;
+  width: auto;
+  height: auto;
+  margin-left: 40px;
+}
+
+.navigation .subtitle{
+	display: inline;
+	font-size: 16px;
+	color: grey;
+	vertical-align: bottom;
+	margin: 10px;
+}
+
+.navigation .links a {
+  color: black;
+}
+
+.main-content {
+	margin-top: 70px;
+}
+
+.main-content .title {
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+
+.main-content .text {
+	font-size: 20px;
+}
+
+.main-content .download {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.main-content .download img {
+	max-height: 65px;
+	height: auto;
+	width: auto;
+}
+
+.main-content .qr-code {
+  max-width: 200px;
+  width: auto;
+  height: auto;
+}
+
+.video {
+}
+
+video {
+	clip: rect(10px, 290px, 190px, 10px);
+}
+
+.section {
+	padding: 0;
+}
+
+.gallary .text {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.gallary img {
+	max-width: 280px;
+	width: auto;
+	height: auto;
+	margin: 20px;
+}
+
+.contact-us .contact-img {
+  cursor: pointer; 
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-us .contact-img.cn {
+  width: 112px;
+  height: 24px;
+  background-size:  112px 24px;
+  background-image:url('../img/contact_cn_black.png');
+}
+
+.contact-us .contact-img.cn:hover {
+  background-image:url('../img/contact_cn_orange.png');
+}
+
+.contact-us .contact-img.us {
+  width: 128px;
+  height: 24px;
+  background-size:  128px 24px;
+  background-image:url('../img/contact_us_black.png');
+}
+
+.contact-us .contact-img.us:hover {
+  background-image:url('../img/contact_us_orange.png');
+}
+
+.privacy {
+	color: grey;
+	margin-left: 20px;
+}
+
+.main .phone-box {
+}
+
+/* iPhone 6 */
+.device-mockup.iphone6box,
+.device-mockup.iphone6box.portrait {
+	padding-bottom: 160%;
+}
+
+.device-mockup.iphone6box.landscape {
+	padding-bottom: 48.76%;
+}
+
+.device-mockup.iphone6box.white > .device,
+.device-mockup.iphone6box.portrait.white > .device {
+	/* background-image: url("../vendor/device-mockups/iphone_6/iphone_6_port_white.png"); */
+	background-image: url("../img/phoneboxandshadow.png");
+	background-size: 100% auto;
+}
+
+.device-mockup.iphone6box > .device > .screen,
+.device-mockup.iphone6box.portrait > .device > .screen {
+	display: block;
+	top: 11.2%; bottom: 11.2%; left: 18.77%; right: 18.77%;
+}
+
+
+.privacy-section {
+	margin: 80px 150px;
+}
+
+.privacy-section .subtitle {
+	font-size: 30px;
+}
+
+.privacy-section .text {
+	font-size: 15px;
+	margin: 20px 0;
+}

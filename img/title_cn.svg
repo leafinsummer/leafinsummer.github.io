@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="35px" height="48px" viewBox="0 0 35 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M34.7887133,42.2820307 C34.7571263,42.3131112 34.7254081,42.3441131 34.6935585,42.3750358 C26.9688005,49.8749881 14.4444932,49.8749881 6.71973521,42.3750358 C-1.00502278,34.8750835 -1.00502278,22.7152584 6.71973521,15.2153061 C6.75158479,15.1843834 6.78351595,15.1535882 6.81552804,15.1229205 L34.7887133,42.2820307 Z M0.540018787,5.90175137 C0.571605728,5.8706709 0.603323986,5.839669 0.635173562,5.80874631 C8.35993156,-1.69120595 20.8842388,-1.69120595 28.6089968,5.80874631 C36.3337548,13.3086986 36.3337548,25.4685238 28.6089968,32.968476 C28.5771473,32.9993987 28.5452161,33.0301939 28.513204,33.0608616 L0.540018787,5.90175137 L0.540018787,5.90175137 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="moji-web" transform="translate(-79.000000, -53.000000)">
+            <g id="Group-3" transform="translate(79.000000, 53.000000)">
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
